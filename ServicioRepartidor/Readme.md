@@ -49,9 +49,7 @@ if __name__ == '__main__':
 
 ## RUN APP 
 
-Para correr esta aplicación en linux instalar el paquete flask y luego iniciar el servidor:
+Para correr esta aplicación en una consola(cmd) o terminal en caso de usar linux:
 ```sh 
-sudo apt-get install python-flask-restful
-
 python Server.py
 ```
